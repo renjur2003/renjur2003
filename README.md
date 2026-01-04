@@ -31,7 +31,7 @@ Git • GitHub • VS Code • Postman • Vercel • Netlify
 
 | Project | Description | Tech Stack |
 |------|------------|-----------|
-| 🚤 **Yaami Holidays – Boat Booking Website** | Full-stack booking & enquiry platform for a tourism business. Includes admin dashboard, WhatsApp & email notifications. | React, Tailwind CSS, Node.js, Express, MongoDB |
+| [🚤 Yaami Holidays – Boat Booking Website](https://github.com/renjur2003/yaami-holidays) | Full-stack booking & enquiry platform for a tourism business. Includes admin dashboard, WhatsApp & email notifications. | React, Tailwind CSS, Node.js, Express, MongoDB |
 | [🌤 Weather App](https://github.com/renjur2003/weather-app) | Real-time weather application using OpenWeatherMap API. | React JS, OpenWeatherMap API, CSS |
 | [🍔 Food Delivery App](https://github.com/renjur2003/food-Delivery-App) | Food ordering web app with cart and menu UI. | React JS, Context API, CSS |
 | [🧾 Node.js CRUD App](https://github.com/renjur2003/node-js-crud-app) | Full CRUD app with authentication and image upload (MVC architecture). | Node.js, Express.js, MongoDB, EJS |
