@@ -23,7 +23,7 @@ HTML • CSS • JavaScript • React JS • Redux Toolkit • Tailwind CSS • 
 Node.js • Express.js • MongoDB • Mongoose  
 
 **Tools & Platforms**  
-Git • GitHub • VS Code • Postman • Vercel • Netlify  
+Git • GitHub • VS Code • Postman • Vercel • Netlify • Render  
 
 ---
 
@@ -31,22 +31,30 @@ Git • GitHub • VS Code • Postman • Vercel • Netlify
 
 | Project | Description | Tech Stack |
 |------|------------|-----------|
+| [🚤 Alleppey Boat Hub – Tourism Booking Website](https://github.com/renjur2003/alleppey-boat-hub) | Production-ready MERN stack website for a real tourism business in Alleppey. Includes booking enquiry system, admin dashboard, email notifications, WhatsApp integration & SEO optimization. | React, Tailwind CSS, Node.js, Express, MongoDB |
 | [🚤 Yaami Holidays – Boat Booking Website](https://github.com/renjur2003/yaami-holidays) | Full-stack booking & enquiry platform for a tourism business. Includes admin dashboard, WhatsApp & email notifications. | React, Tailwind CSS, Node.js, Express, MongoDB |
 | [🌤 Weather App](https://github.com/renjur2003/weather-app) | Real-time weather application using OpenWeatherMap API. | React JS, OpenWeatherMap API, CSS |
 | [🍔 Food Delivery App](https://github.com/renjur2003/food-Delivery-App) | Food ordering web app with cart and menu UI. | React JS, Context API, CSS |
 | [🧾 Node.js CRUD App](https://github.com/renjur2003/node-js-crud-app) | Full CRUD app with authentication and image upload (MVC architecture). | Node.js, Express.js, MongoDB, EJS |
 | [💼 React Portfolio](https://github.com/renjur2003/react-portfolio) | Personal portfolio showcasing projects and skills. | React JS, Tailwind CSS |
 
-🔗 **Live Project:** https://www.yaamiholidays.com
+🔗 **Live Projects:**  
+- https://alleppeyboathub.com  
+- https://www.yaamiholidays.com  
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renjur2003&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renjur2003&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=renjur2003&show_icons=true&hide_title=true&theme=radical" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renjur2003&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renjur2003&layout=compact&theme=radical" width="48%" />
+</p>
+
+
 
 ---
 
@@ -60,4 +68,5 @@ Git • GitHub • VS Code • Postman • Vercel • Netlify
 
 ⭐ *Open to freelance web development projects.*  
 Let’s build something impactful 🚀
+
 
