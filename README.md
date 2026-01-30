@@ -33,7 +33,6 @@ Git • GitHub • VS Code • Postman • Vercel • Netlify • Render
 |------|------------|-----------|
 | [🚤 Alleppey Boat Hub – Tourism Booking Website](https://github.com/renjur2003/alleppey-boat-hub) | Production-ready MERN stack website for a real tourism business in Alleppey. Includes booking enquiry system, admin dashboard, email notifications, WhatsApp integration & SEO optimization. | React, Tailwind CSS, Node.js, Express, MongoDB |
 | [💼 Universe Fundmart – Wealth Management Platform](https://github.com/renjur2003/universe-fundmart) | Production-ready MERN stack finance & wealth management platform built for a real client. Includes SEBI & AMFI-compliant structure, secure admin dashboard, lead management system, email notifications, and scalable deployment. | React, Node.js, Express, MongoDB, Vercel, Render |
-
 | [🚤 Yaami Holidays – Boat Booking Website](https://github.com/renjur2003/yaami-holidays) | Full-stack booking & enquiry platform for a tourism business. Includes admin dashboard, WhatsApp & email notifications. | React, Tailwind CSS, Node.js, Express, MongoDB |
 | [🌤 Weather App](https://github.com/renjur2003/weather-app) | Real-time weather application using OpenWeatherMap API. | React JS, OpenWeatherMap API, CSS |
 | [🍔 Food Delivery App](https://github.com/renjur2003/food-Delivery-App) | Food ordering web app with cart and menu UI. | React JS, Context API, CSS |
